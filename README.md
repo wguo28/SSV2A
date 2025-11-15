@@ -1,4 +1,4 @@
-# Gotta Hear Them All: Towards Sound Source-Aware Audio Generation
+# Gotta Hear Them All: Towards Sound Source Aware Audio Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.15447-brightgreen?logo=arxiv&logoColor=white&style=flat-square)](https://arxiv.org/abs/2411.15447) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Website-blue?logo=Github&logoColor=white&style=flat-square)](https://ssv2a.github.io/SSV2A-demo/) [![Hugging Face Spaces](https://img.shields.io/badge/Gradio-Interactive_Demo-orange?logo=huggingface&logoColor=white&style=flat-square)](https://ssv2a.ngrok.io/) 
 
@@ -112,7 +112,7 @@ If you find our work useful, please consider citing
 
 ```bibtex
 @inproceedings{SS2A,
-  title={Gotta Hear Them All: Towards Sound Source Audio Generation},
+  title={Gotta Hear Them All: Towards Sound Source Aware Audio Generation},
   author={Guo, Wei and Wang, Heng and Ma, Jianbo and Cai, Weidong},
   booktitle={AAAI},
   year={2026}
@@ -132,5 +132,6 @@ We list major references in our code here:
 5. [CLIP](https://github.com/openai/CLIP), by OpenAI
 
 Thank you for the excellent works! Other references are commented inline.
+
 
 
