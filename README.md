@@ -1,8 +1,10 @@
-# Gotta Hear Them All: Sound Source-Aware Vision to Audio Generation
+# Gotta Hear Them All: Towards Sound Source-Aware Audio Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.15447-brightgreen?logo=arxiv&logoColor=white&style=flat-square)](https://arxiv.org/abs/2411.15447) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Website-blue?logo=Github&logoColor=white&style=flat-square)](https://ssv2a.github.io/SSV2A-demo/) [![Hugging Face Spaces](https://img.shields.io/badge/Gradio-Interactive_Demo-orange?logo=huggingface&logoColor=white&style=flat-square)](https://ssv2a.ngrok.io/) 
 
 **Flexibly generate sounds by composing visual, text, and audio sound source prompts.**
+
+This work is accepted at AAAI 2026.
 
 In order to run our code, please clone the repository and follow these instructions to set up a virtual environment:
 
@@ -109,11 +111,11 @@ Feel free to play with this feature and let your imagination run wild :)
 If you find our work useful, please consider citing
 
 ```bibtex
-@article{SSV2A,
-  title={Gotta Hear Them All: Sound Source Aware Vision to Audio Generation},
+@inproceedings{SS2A,
+  title={Gotta Hear Them All: Towards Sound Source Audio Generation},
   author={Guo, Wei and Wang, Heng and Ma, Jianbo and Cai, Weidong},
-  journal={arXiv preprint arXiv:2411.15447},
-  year={2024}
+  booktitle={AAAI},
+  year={2026}
 }
 ```
 
@@ -130,4 +132,5 @@ We list major references in our code here:
 5. [CLIP](https://github.com/openai/CLIP), by OpenAI
 
 Thank you for the excellent works! Other references are commented inline.
+
 
